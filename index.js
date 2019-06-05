@@ -82,6 +82,7 @@ function deduplication6 (arr) {
   return newArr
 }
 
+
 /**
  * 方法七：利用数组方法reduce
  */
